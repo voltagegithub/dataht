@@ -1,0 +1,596 @@
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\npm\@popperjs\core@2.9.3\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\npm\select2@4.1.0-rc.0\dist\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.5.1.slim.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\jquery-3.5.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700&subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUhiYA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.eot
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s.cdpn.io\1462889\unicons.eot
+Content Type: 
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.svg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s.cdpn.io\1462889\unicons.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s.cdpn.io\1462889\unicons.ttf
+Content Type: font/ttf
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s.cdpn.io\1462889\unicons.woff
+Content Type: font/woff
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\s.cdpn.io\1462889\unicons.woff2
+Content Type: font/woff
+
+Uri: https://www.veganet.com.tr/
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/acentelerimiz
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\acentelerimiz.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/altyapi-sorgulama
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\altyapi-sorgulama.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/btk-log-sunucusu
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\btk-log-sunucusu.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/cerez-politikasi
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\cerez-politikasi.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/cloud-server
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\cloud-server.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/colocation-server
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\colocation-server.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/content/edevlet.mp4
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\edevlet.mp4
+Content Type: video/mp4
+
+Uri: https://www.veganet.com.tr/content/Giris/1.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\1.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/content/Giris/2.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\2.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/content/Giris/bootstrap-giris.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\bootstrap-giris.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/Giris/Easing.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\Easing.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/Giris/jQuery.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\jQuery.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/Giris/js/helper-plugins.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\js\helper-plugins.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/Giris/js/jquery-2.0.0.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\js\jquery-2.0.0.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/Giris/js/wow.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\js\wow.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/Giris/style-giris.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\Giris\style-giris.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/sozlesme-form/abonenin-isletme-degistirmesi-icin-talep-formu.pdf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\sozlesme-form\abonenin-isletme-degistirmesi-icin-talep-formu.pdf
+Content Type: application/pdf
+
+Uri: https://www.veganet.com.tr/content/sozlesme-form/evde-kurulum-formu.jpeg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\sozlesme-form\evde-kurulum-formu.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/sozlesme-form/evde-kurulum-formu.pdf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\sozlesme-form\evde-kurulum-formu.pdf
+Content Type: application/pdf
+
+Uri: https://www.veganet.com.tr/content/sozlesme-form/internet-hizmetleri-ve-kullanim.pdf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\sozlesme-form\internet-hizmetleri-ve-kullanim.pdf
+Content Type: application/pdf
+
+Uri: https://www.veganet.com.tr/content/sozlesme-form/isletme-degisim-formu.jpeg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\sozlesme-form\isletme-degisim-formu.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/main.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\main.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/media.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\media.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/plugins/fontawesome-6.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\plugins\fontawesome-6.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\plugins\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/plugins/unicons.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\plugins\unicons.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/css/vendor/metismenu.css
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\css\vendor\metismenu.css
+Content Type: text/css
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/bg/bg-slider-1.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\bg\bg-slider-1.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/bg/bg-slider-3.webp
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\bg\bg-slider-3.webp
+Content Type: image/webp
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/bg/bg-slider-metro.webp
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\bg\bg-slider-metro.webp
+Content Type: image/webp
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/home/h01.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\home\h01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/home/h02.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\home\h02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/logo.svg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-airfiber.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-airfiber.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-bg.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-btk-log.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-btk-log.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-cserver.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-cserver.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-fiber.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-fiber.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-server.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-server.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/breadcrumb-vdsl.avif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\breadcrumb-vdsl.avif
+Content Type: image/avif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/icons/cabin.gif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\icons\cabin.gif
+Content Type: image/gif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/icons/server.gif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\icons\server.gif
+Content Type: image/gif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/icons/shield.gif
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\icons\shield.gif
+Content Type: image/gif
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/kampanya/fiber-detay.webp
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\kampanya\fiber-detay.webp
+Content Type: image/webp
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/metro-secure.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\metro-secure.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/metro-simetrik.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\metro-simetrik.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/images/upload/metro-yeninesil.jpg
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\images\upload\metro-yeninesil.jpg
+Content Type: image/jpeg
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/main.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\main-1.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/main.js?id=3
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/page/alt-yapi-sorgu.js?id=40
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\page\alt-yapi-sorgu.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/cookie.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\cookie.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\imagesloaded.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/select2.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\select2.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/plugins/swiper.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\plugins\swiper.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\vendor\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/js/vendor/metismenu.js
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\js\vendor\metismenu.js
+Content Type: text/javascript
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/media/static/favicon.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\media\static\favicon.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/media/static/touch-icon-120-precomposed.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\media\static\touch-icon-120-precomposed.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/media/static/touch-icon-144-precomposed.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\media\static\touch-icon-144-precomposed.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/content/theme/veganet/media/static/touch-icon-76-precomposed.png
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\content\theme\veganet\media\static\touch-icon-76-precomposed.png
+Content Type: image/png
+
+Uri: https://www.veganet.com.tr/dedicated-server
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\dedicated-server.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/dijital-abonelik
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\dijital-abonelik.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/duyurular
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\duyurular.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/eko-plus
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\eko-plus.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/fiber-tarifeler
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\fiber-tarifeler.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/gizlilik-politikasi
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\gizlilik-politikasi.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/guvenli-internet
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\guvenli-internet.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/hakkimizda
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\hakkimizda.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/hosting-barindirma
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\hosting-barindirma.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/iletisim
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\iletisim.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/kablosuz-internet
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\kablosuz-internet.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/kvkk
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\kvkk.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/metro-internet
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\metro-internet.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/musteri-girisi
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\musteri-girisi.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/sozlesmeler-formlar
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\sozlesmeler-formlar.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/sss
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\sss.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vdsl-tarifeler
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vdsl-tarifeler.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vega-avantaj
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vega-avantaj.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vega-platin
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vega-platin.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vega-pro
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vega-pro.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vega-silver
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vega-silver.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/vega-ultra
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\vega-ultra.html
+Content Type: text/html
+
+Uri: https://www.veganet.com.tr/yeni-basvuru
+File Name: C:\Downloaded Web Sites\www.veganet.com.tr\yeni-basvuru.html
+Content Type: text/html
+

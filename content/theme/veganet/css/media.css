@@ -1,0 +1,64 @@
+﻿@charset "UTF-8";
+
+@media screen and (max-width: 768px) {
+  
+  .vega-btn.btn-blur {
+    margin-right: 0 !important;
+  }
+  .vega-btn {
+    width: 250px;
+  }
+  .content-main-wrapper .title {
+    letter-spacing: -1.5px !important;
+  }
+  .title-conter-area .title {
+    letter-spacing: -1.3px !important;
+  }
+  .vega-btn.btn-border-p {
+    width: 100%;
+  }
+  .social-style-two ul {
+    justify-content: center !important;
+    margin-bottom: 30px !important;
+  }
+  .footer-one-main-wrapper .footer-singl-wized .head {
+    margin-bottom: 5px !important;
+  }
+  .footer-one-main-wrapper .footer-singl-wized .head .title {
+    margin-bottom: 0 !important;
+    margin-top: 20px;
+  }
+  ul li {
+    margin: 1px !important;
+  }
+  .accordion-area-one .accordion .accordion-item button::after {
+    margin-top: -7px !important;
+  }
+  .accordion-area-one .accordion .accordion-item .accordion-body {
+    padding: 0px 20px 28px 20px !important;
+    font-size: 14px !important;
+    font-weight: 300;
+  }
+  .single-feature-area-start .featue-content-area .title {
+    font-size: 25px !important;
+  }
+  .vega-breadcrumb-net {
+	padding: 155px 0 90px 0 !important;
+  }
+  .vega-price-gap {
+    padding: 0px 10px !important;
+	margin-bottom: 25px;
+  }
+  .vega-faq-area {
+	padding: 0 15px !important;
+	margin-bottom: 35px;
+  }
+  .step {
+	height: 47px !important;
+  }
+  .page-area {
+	margin-top: 30px;
+  }
+
+}
+
